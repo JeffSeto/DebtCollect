@@ -1,4 +1,4 @@
-package com.example.jeffrey.debtcollect;
+package com.example.jeffrey.main;
 
 import android.app.Fragment;
 
